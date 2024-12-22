@@ -1,9 +1,6 @@
 # 1. Two Sum
 
-**Solved**  
-**Easy**  
 
----
 
 ## Problem Statement
 
